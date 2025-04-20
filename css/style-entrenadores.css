@@ -6,7 +6,7 @@ body {
   }
   
   .main-header {
-    background-image: url('/img/back.jpg'); /* pon tu ruta aquí */
+    background-image: url('/BrunoMoolo/img/back.jpg'); /* pon tu ruta aquí */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
