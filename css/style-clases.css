@@ -272,7 +272,7 @@ footer a {
 
 .footer {
   position: relative;
-  background-image: url('/img/darth.jpg');
+  background-image: url('/BrunoMoolo/img/darth.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed; /* efecto parallax */
