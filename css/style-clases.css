@@ -20,7 +20,7 @@ body {
 }
 
 .main-header {
-  background-image: url('img/back.jpg'); /* pon tu ruta aquí */
+  background-image: url('/img/back.jpg'); /* pon tu ruta aquí */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -272,7 +272,7 @@ footer a {
 
 .footer {
   position: relative;
-  background-image: url('img/darth.jpg');
+  background-image: url('/img/darth.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed; /* efecto parallax */

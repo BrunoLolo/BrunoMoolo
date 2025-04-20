@@ -83,7 +83,7 @@ nav ul li a:hover {
 
 /* === MAIN HEADER Y HOVER EFFECT === */
 .main-header {
-  background-image: url('/TP1/img/back.jpg');
+  background-image: url('/img/back.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -302,7 +302,7 @@ footer a {
 
 .footer {
   position: relative;
-  background-image: url('/TP1/img/darth.jpg');
+  background-image: url('/img/darth.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed; /* efecto parallax */
